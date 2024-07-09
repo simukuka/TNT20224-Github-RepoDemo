@@ -1,2 +1,2 @@
-# TNT20224-Github-RepoDemo
-This repo is on how to use GitHub
+# Git Remote Demo
+This is a repository to demonstrate how to use GitHub. 
